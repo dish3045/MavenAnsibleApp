@@ -1,5 +1,4 @@
-gedit Jenkinsfile
-//code inside Jenkinsfile
+
 pipeline{
 	agent any
 	tools{
